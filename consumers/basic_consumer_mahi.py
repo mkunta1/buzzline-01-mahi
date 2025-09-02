@@ -58,7 +58,7 @@ def process_message(log_file) -> None:
                 logger.warning(f"ALERT: The special message was found! \n{message}")
 
             # Example of another custom alert for different messages
-            if "I just tried an app! It was weird." in message:
+            if "I just tried an app! It was very weird." in message:
                 print(f"ALERT: A weird app was tried! \n{message}")
                 logger.warning(f"ALERT: A weird app was tried! \n{message}")
 
