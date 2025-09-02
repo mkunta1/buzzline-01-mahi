@@ -90,5 +90,8 @@ The producer script generates custom buzz messages and logs them. To run it:
 3. The generated messages will be logged both to the console and a file located in the logs directory.
 
 Custom Message Example:
-Breaking news! I just shared a book and it was absolutely shocking!
-Breaking news! I just loved an app and it was absolutely mind-blowing! 
+-Breaking news! I just shared a book and it was absolutely shocking!
+-Breaking news! I just loved an app and it was absolutely mind-blowing! 
+
+## consumer script
+detects the message, triggering the alert.

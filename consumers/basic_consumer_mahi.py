@@ -51,12 +51,7 @@ def process_message(log_file) -> None:
             message = line.strip()
             print(f"Consumed log message: {message}")
 
-            # monitor and alert on special conditions
-            if "I just loved a movie! It was funny." in message:
-                print(f"ALERT: The special message was found! \n{message}")
-                logger.warning(f"ALERT: The special message was found! \n{message}")
-
-                
+           
             # Implement real-time analytics: Alert on a specific pattern
             if "I just loved a movie! It was amazing." in message:
                 print(f"ALERT: The special message was found! \n{message}")
