@@ -1,4 +1,4 @@
-# buzzline-01-case
+# buzzline-01-Mahi
 
 ![Python 3.11](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 
@@ -81,3 +81,14 @@ We will get a good amount of practice.
 This project is licensed under the MIT License as an example project. 
 You are encouraged to fork, copy, explore, and modify the code as you like. 
 See the [LICENSE](LICENSE.txt) file for more.
+
+
+## Producer Script 
+The producer script generates custom buzz messages and logs them. To run it:
+1. Ensure your virtual environment is activated.
+2. Run the producer script with command:py producers/basic_producer_mahi
+3. The generated messages will be logged both to the console and a file located in the logs directory.
+
+Custom Message Example:
+Breaking news! I just shared a book and it was absolutely shocking!
+Breaking news! I just loved an app and it was absolutely mind-blowing! 
