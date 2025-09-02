@@ -519,3 +519,497 @@
 2025-09-01 23:23:26.027 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely funny!
 2025-09-01 23:23:29.029 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely mind-blowing!
 2025-09-01 23:23:32.031 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely shocking!
+2025-09-01 23:45:40.531 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-01 23:45:40.531 | INFO     | __main__:main:68 - START...
+2025-09-01 23:45:40.532 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-09-01 23:48:39.525 | INFO     | __main__:main:85 - END.....
+2025-09-01 23:48:49.406 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-01 23:48:49.407 | INFO     | __main__:main:106 - START producer...
+2025-09-01 23:48:49.407 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-09-01 23:48:49.407 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-09-01 23:48:49.407 | INFO     | __main__:main:114 - I just tried an app! It was weird.
+2025-09-01 23:48:52.409 | INFO     | __main__:main:114 - I just tried an app! It was funny.
+2025-09-01 23:48:55.411 | INFO     | __main__:main:114 - I just saw a trick! It was funny.
+2025-09-01 23:48:58.412 | INFO     | __main__:main:114 - I just shared a movie! It was exciting.
+2025-09-01 23:49:01.413 | INFO     | __main__:main:114 - I just saw an app! It was amazing.
+2025-09-01 23:49:04.415 | INFO     | __main__:main:114 - I just found an app! It was weird.
+2025-09-01 23:49:07.417 | INFO     | __main__:main:114 - I just tried a meme! It was amazing.
+2025-09-01 23:49:10.418 | INFO     | __main__:main:114 - I just shared an app! It was funny.
+2025-09-01 23:49:13.420 | INFO     | __main__:main:114 - I just found an app! It was funny.
+2025-09-01 23:49:16.421 | INFO     | __main__:main:114 - I just tried a story! It was funny.
+2025-09-01 23:49:19.422 | INFO     | __main__:main:114 - I just shared a movie! It was weird.
+2025-09-01 23:49:22.424 | INFO     | __main__:main:114 - I just shared a movie! It was funny.
+2025-09-01 23:49:25.425 | INFO     | __main__:main:114 - I just found an app! It was amazing.
+2025-09-01 23:49:28.426 | INFO     | __main__:main:114 - I just loved a story! It was exciting.
+2025-09-01 23:49:31.428 | INFO     | __main__:main:114 - I just tried a meme! It was boring.
+2025-09-01 23:49:34.428 | INFO     | __main__:main:114 - I just saw a meme! It was weird.
+2025-09-01 23:49:37.430 | INFO     | __main__:main:114 - I just loved a trick! It was boring.
+2025-09-01 23:49:40.431 | INFO     | __main__:main:114 - I just found a movie! It was weird.
+2025-09-01 23:49:43.432 | INFO     | __main__:main:114 - I just shared a story! It was boring.
+2025-09-01 23:49:46.433 | INFO     | __main__:main:114 - I just shared a story! It was exciting.
+2025-09-01 23:49:49.434 | INFO     | __main__:main:114 - I just tried a movie! It was exciting.
+2025-09-01 23:49:52.435 | INFO     | __main__:main:114 - I just shared an app! It was boring.
+2025-09-01 23:49:55.436 | INFO     | __main__:main:114 - I just found a meme! It was weird.
+2025-09-01 23:49:58.438 | INFO     | __main__:main:114 - I just found a trick! It was weird.
+2025-09-01 23:50:01.438 | INFO     | __main__:main:114 - I just found a movie! It was boring.
+2025-09-01 23:50:04.440 | INFO     | __main__:main:114 - I just loved a movie! It was exciting.
+2025-09-01 23:50:07.441 | INFO     | __main__:main:114 - I just tried a meme! It was weird.
+2025-09-01 23:50:10.443 | INFO     | __main__:main:114 - I just found a trick! It was amazing.
+2025-09-01 23:50:13.444 | INFO     | __main__:main:114 - I just tried a movie! It was exciting.
+2025-09-01 23:50:16.445 | INFO     | __main__:main:114 - I just found an app! It was funny.
+2025-09-01 23:50:19.446 | INFO     | __main__:main:114 - I just shared a trick! It was weird.
+2025-09-01 23:50:22.448 | INFO     | __main__:main:114 - I just found a meme! It was amazing.
+2025-09-01 23:50:25.449 | INFO     | __main__:main:114 - I just found a movie! It was exciting.
+2025-09-01 23:50:28.451 | INFO     | __main__:main:114 - I just shared a story! It was funny.
+2025-09-01 23:50:31.452 | INFO     | __main__:main:114 - I just shared an app! It was funny.
+2025-09-01 23:50:34.454 | INFO     | __main__:main:114 - I just shared a movie! It was boring.
+2025-09-01 23:51:43.119 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-01 23:51:43.120 | INFO     | __main__:main:106 - START producer...
+2025-09-01 23:51:43.121 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-09-01 23:51:43.121 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-09-01 23:51:43.121 | INFO     | __main__:main:114 - I just found a movie! It was weird.
+2025-09-01 23:51:46.122 | INFO     | __main__:main:114 - I just tried a story! It was amazing.
+2025-09-01 23:51:49.122 | INFO     | __main__:main:114 - I just shared a trick! It was boring.
+2025-09-01 23:51:52.124 | INFO     | __main__:main:114 - I just saw a movie! It was amazing.
+2025-09-01 23:51:55.125 | INFO     | __main__:main:114 - I just loved a meme! It was amazing.
+2025-09-01 23:51:58.127 | INFO     | __main__:main:114 - I just found a story! It was weird.
+2025-09-01 23:52:01.128 | INFO     | __main__:main:114 - I just loved an app! It was amazing.
+2025-09-01 23:52:04.129 | INFO     | __main__:main:114 - I just shared a trick! It was weird.
+2025-09-01 23:52:04.622 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-01 23:52:04.622 | INFO     | __main__:main:68 - START...
+2025-09-01 23:52:04.622 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-09-01 23:52:07.131 | INFO     | __main__:main:114 - I just tried a meme! It was weird.
+2025-09-01 23:52:10.131 | INFO     | __main__:main:114 - I just found a meme! It was boring.
+2025-09-01 23:52:13.132 | INFO     | __main__:main:114 - I just tried an app! It was funny.
+2025-09-01 23:52:16.133 | INFO     | __main__:main:114 - I just found a trick! It was boring.
+2025-09-01 23:52:19.134 | INFO     | __main__:main:114 - I just tried a movie! It was boring.
+2025-09-01 23:52:22.136 | INFO     | __main__:main:114 - I just tried a meme! It was boring.
+2025-09-01 23:52:25.156 | INFO     | __main__:main:114 - I just saw a trick! It was funny.
+2025-09-01 23:52:28.162 | INFO     | __main__:main:114 - I just tried an app! It was boring.
+2025-09-01 23:52:31.163 | INFO     | __main__:main:114 - I just shared a trick! It was boring.
+2025-09-01 23:52:32.367 | INFO     | __main__:main:85 - END.....
+2025-09-01 23:52:34.164 | INFO     | __main__:main:114 - I just found a meme! It was exciting.
+2025-09-01 23:52:37.165 | INFO     | __main__:main:114 - I just shared a meme! It was weird.
+2025-09-01 23:52:40.166 | INFO     | __main__:main:114 - I just tried a story! It was amazing.
+2025-09-01 23:52:43.167 | INFO     | __main__:main:114 - I just found a movie! It was funny.
+2025-09-01 23:52:46.168 | INFO     | __main__:main:114 - I just tried a story! It was amazing.
+2025-09-01 23:52:49.170 | INFO     | __main__:main:114 - I just saw a story! It was funny.
+2025-09-01 23:52:52.171 | INFO     | __main__:main:114 - I just shared a trick! It was exciting.
+2025-09-01 23:52:55.172 | INFO     | __main__:main:114 - I just shared a story! It was amazing.
+2025-09-01 23:52:58.174 | INFO     | __main__:main:114 - I just saw a trick! It was amazing.
+2025-09-01 23:53:01.175 | INFO     | __main__:main:114 - I just saw an app! It was exciting.
+2025-09-01 23:53:04.176 | INFO     | __main__:main:114 - I just saw a meme! It was amazing.
+2025-09-01 23:53:07.178 | INFO     | __main__:main:114 - I just found a trick! It was funny.
+2025-09-01 23:53:10.180 | INFO     | __main__:main:114 - I just tried a meme! It was funny.
+2025-09-01 23:53:13.182 | INFO     | __main__:main:114 - I just saw a movie! It was weird.
+2025-09-01 23:53:16.183 | INFO     | __main__:main:114 - I just found a meme! It was funny.
+2025-09-01 23:53:19.184 | INFO     | __main__:main:114 - I just loved a trick! It was funny.
+2025-09-01 23:53:22.185 | INFO     | __main__:main:114 - I just found a story! It was exciting.
+2025-09-01 23:53:25.186 | INFO     | __main__:main:114 - I just tried a meme! It was boring.
+2025-09-01 23:53:28.187 | INFO     | __main__:main:114 - I just loved a movie! It was funny.
+2025-09-01 23:53:31.188 | INFO     | __main__:main:114 - I just shared a movie! It was amazing.
+2025-09-01 23:53:34.189 | INFO     | __main__:main:114 - I just shared a movie! It was amazing.
+2025-09-01 23:53:37.191 | INFO     | __main__:main:114 - I just shared a story! It was funny.
+2025-09-01 23:53:40.192 | INFO     | __main__:main:114 - I just loved a movie! It was weird.
+2025-09-01 23:53:43.194 | INFO     | __main__:main:114 - I just saw a trick! It was amazing.
+2025-09-01 23:53:46.195 | INFO     | __main__:main:114 - I just tried a story! It was funny.
+2025-09-01 23:53:49.196 | INFO     | __main__:main:114 - I just loved a movie! It was weird.
+2025-09-01 23:53:52.196 | INFO     | __main__:main:114 - I just saw a story! It was funny.
+2025-09-01 23:53:55.197 | INFO     | __main__:main:114 - I just shared a trick! It was weird.
+2025-09-01 23:53:58.198 | INFO     | __main__:main:114 - I just shared an app! It was amazing.
+2025-09-01 23:54:01.200 | INFO     | __main__:main:114 - I just loved an app! It was weird.
+2025-09-01 23:54:04.201 | INFO     | __main__:main:114 - I just loved a meme! It was amazing.
+2025-09-01 23:54:07.203 | INFO     | __main__:main:114 - I just loved a movie! It was boring.
+2025-09-01 23:54:10.204 | INFO     | __main__:main:114 - I just loved a meme! It was boring.
+2025-09-01 23:54:13.205 | INFO     | __main__:main:114 - I just tried a trick! It was funny.
+2025-09-01 23:54:16.206 | INFO     | __main__:main:114 - I just tried a trick! It was funny.
+2025-09-01 23:54:19.208 | INFO     | __main__:main:114 - I just saw a meme! It was weird.
+2025-09-01 23:54:22.209 | INFO     | __main__:main:114 - I just found a trick! It was amazing.
+2025-09-01 23:54:25.210 | INFO     | __main__:main:114 - I just found a story! It was exciting.
+2025-09-01 23:54:28.211 | INFO     | __main__:main:114 - I just loved a story! It was exciting.
+2025-09-01 23:54:31.212 | INFO     | __main__:main:114 - I just tried a movie! It was funny.
+2025-09-01 23:54:34.213 | INFO     | __main__:main:114 - I just loved an app! It was boring.
+2025-09-01 23:54:37.215 | INFO     | __main__:main:114 - I just saw a trick! It was exciting.
+2025-09-01 23:54:40.216 | INFO     | __main__:main:114 - I just shared a story! It was weird.
+2025-09-01 23:54:43.218 | INFO     | __main__:main:114 - I just found a movie! It was weird.
+2025-09-01 23:54:46.220 | INFO     | __main__:main:114 - I just loved a story! It was amazing.
+2025-09-01 23:54:49.222 | INFO     | __main__:main:114 - I just tried a meme! It was funny.
+2025-09-01 23:54:52.223 | INFO     | __main__:main:114 - I just saw a meme! It was weird.
+2025-09-01 23:54:55.224 | INFO     | __main__:main:114 - I just shared a story! It was amazing.
+2025-09-01 23:54:58.226 | INFO     | __main__:main:114 - I just loved a trick! It was exciting.
+2025-09-01 23:55:01.227 | INFO     | __main__:main:114 - I just tried a meme! It was exciting.
+2025-09-01 23:55:04.229 | INFO     | __main__:main:114 - I just tried a movie! It was funny.
+2025-09-01 23:55:07.230 | INFO     | __main__:main:114 - I just loved a movie! It was funny.
+2025-09-01 23:55:10.232 | INFO     | __main__:main:114 - I just shared a meme! It was exciting.
+2025-09-01 23:55:13.234 | INFO     | __main__:main:114 - I just shared a trick! It was amazing.
+2025-09-01 23:55:16.235 | INFO     | __main__:main:114 - I just found an app! It was boring.
+2025-09-01 23:55:19.237 | INFO     | __main__:main:114 - I just saw an app! It was weird.
+2025-09-01 23:55:22.238 | INFO     | __main__:main:114 - I just saw a movie! It was boring.
+2025-09-01 23:55:25.240 | INFO     | __main__:main:114 - I just tried a story! It was exciting.
+2025-09-01 23:55:28.241 | INFO     | __main__:main:114 - I just loved a meme! It was boring.
+2025-09-01 23:55:31.243 | INFO     | __main__:main:114 - I just tried a story! It was weird.
+2025-09-01 23:55:34.245 | INFO     | __main__:main:114 - I just found an app! It was boring.
+2025-09-01 23:55:37.246 | INFO     | __main__:main:114 - I just loved a meme! It was amazing.
+2025-09-01 23:55:40.248 | INFO     | __main__:main:114 - I just shared a story! It was amazing.
+2025-09-01 23:55:43.249 | INFO     | __main__:main:114 - I just loved a story! It was exciting.
+2025-09-01 23:55:46.251 | INFO     | __main__:main:114 - I just found an app! It was exciting.
+2025-09-01 23:55:49.252 | INFO     | __main__:main:114 - I just tried a movie! It was funny.
+2025-09-01 23:55:52.254 | INFO     | __main__:main:114 - I just loved a trick! It was amazing.
+2025-09-01 23:55:55.255 | INFO     | __main__:main:114 - I just tried a trick! It was boring.
+2025-09-01 23:55:58.257 | INFO     | __main__:main:114 - I just saw a trick! It was boring.
+2025-09-01 23:56:01.259 | INFO     | __main__:main:114 - I just tried a story! It was weird.
+2025-09-01 23:56:04.261 | INFO     | __main__:main:114 - I just loved a meme! It was exciting.
+2025-09-01 23:56:07.262 | INFO     | __main__:main:114 - I just shared a trick! It was funny.
+2025-09-01 23:56:10.264 | INFO     | __main__:main:114 - I just loved a movie! It was boring.
+2025-09-01 23:56:13.266 | INFO     | __main__:main:114 - I just shared a movie! It was amazing.
+2025-09-01 23:56:16.267 | INFO     | __main__:main:114 - I just found a meme! It was boring.
+2025-09-01 23:56:19.269 | INFO     | __main__:main:114 - I just saw an app! It was exciting.
+2025-09-01 23:56:22.271 | INFO     | __main__:main:114 - I just shared a meme! It was exciting.
+2025-09-01 23:56:25.272 | INFO     | __main__:main:114 - I just saw an app! It was amazing.
+2025-09-01 23:56:28.274 | INFO     | __main__:main:114 - I just tried a movie! It was funny.
+2025-09-01 23:56:31.276 | INFO     | __main__:main:114 - I just found a trick! It was amazing.
+2025-09-01 23:56:34.277 | INFO     | __main__:main:114 - I just shared a story! It was exciting.
+2025-09-01 23:56:37.279 | INFO     | __main__:main:114 - I just loved a trick! It was funny.
+2025-09-01 23:56:40.281 | INFO     | __main__:main:114 - I just loved a movie! It was weird.
+2025-09-01 23:56:43.282 | INFO     | __main__:main:114 - I just loved a trick! It was exciting.
+2025-09-01 23:56:46.284 | INFO     | __main__:main:114 - I just tried a story! It was boring.
+2025-09-01 23:56:49.286 | INFO     | __main__:main:114 - I just tried a meme! It was boring.
+2025-09-01 23:56:52.287 | INFO     | __main__:main:114 - I just saw a trick! It was amazing.
+2025-09-01 23:56:55.289 | INFO     | __main__:main:114 - I just tried a trick! It was weird.
+2025-09-01 23:56:58.290 | INFO     | __main__:main:114 - I just loved a movie! It was weird.
+2025-09-01 23:57:01.292 | INFO     | __main__:main:114 - I just found a story! It was funny.
+2025-09-01 23:57:04.294 | INFO     | __main__:main:114 - I just tried a trick! It was funny.
+2025-09-01 23:57:07.295 | INFO     | __main__:main:114 - I just loved a trick! It was weird.
+2025-09-01 23:57:10.296 | INFO     | __main__:main:114 - I just saw a meme! It was amazing.
+2025-09-01 23:57:13.298 | INFO     | __main__:main:114 - I just shared a trick! It was exciting.
+2025-09-01 23:57:16.300 | INFO     | __main__:main:114 - I just found a meme! It was exciting.
+2025-09-01 23:57:19.301 | INFO     | __main__:main:114 - I just shared a movie! It was exciting.
+2025-09-01 23:57:22.303 | INFO     | __main__:main:114 - I just loved a meme! It was amazing.
+2025-09-01 23:57:25.305 | INFO     | __main__:main:114 - I just shared a meme! It was weird.
+2025-09-01 23:57:28.306 | INFO     | __main__:main:114 - I just loved a movie! It was boring.
+2025-09-01 23:57:31.307 | INFO     | __main__:main:114 - I just loved a story! It was exciting.
+2025-09-01 23:57:34.308 | INFO     | __main__:main:114 - I just loved a meme! It was weird.
+2025-09-01 23:57:37.310 | INFO     | __main__:main:114 - I just shared a story! It was exciting.
+2025-09-01 23:57:40.311 | INFO     | __main__:main:114 - I just loved an app! It was weird.
+2025-09-01 23:57:43.312 | INFO     | __main__:main:114 - I just tried a trick! It was amazing.
+2025-09-01 23:57:46.314 | INFO     | __main__:main:114 - I just shared an app! It was weird.
+2025-09-01 23:57:49.316 | INFO     | __main__:main:114 - I just loved a meme! It was amazing.
+2025-09-01 23:57:52.317 | INFO     | __main__:main:114 - I just saw a meme! It was amazing.
+2025-09-01 23:57:55.319 | INFO     | __main__:main:114 - I just saw a meme! It was exciting.
+2025-09-01 23:57:58.320 | INFO     | __main__:main:114 - I just shared a movie! It was amazing.
+2025-09-01 23:58:01.322 | INFO     | __main__:main:114 - I just loved a trick! It was funny.
+2025-09-01 23:58:04.323 | INFO     | __main__:main:114 - I just tried an app! It was weird.
+2025-09-01 23:58:07.325 | INFO     | __main__:main:114 - I just saw a trick! It was funny.
+2025-09-01 23:58:10.326 | INFO     | __main__:main:114 - I just shared a story! It was exciting.
+2025-09-01 23:58:13.328 | INFO     | __main__:main:114 - I just shared an app! It was boring.
+2025-09-01 23:58:16.329 | INFO     | __main__:main:114 - I just loved a movie! It was amazing.
+2025-09-01 23:58:19.331 | INFO     | __main__:main:114 - I just loved a trick! It was exciting.
+2025-09-01 23:58:22.333 | INFO     | __main__:main:114 - I just shared a story! It was exciting.
+2025-09-01 23:58:25.334 | INFO     | __main__:main:114 - I just loved a movie! It was boring.
+2025-09-01 23:58:28.336 | INFO     | __main__:main:114 - I just shared a meme! It was funny.
+2025-09-01 23:58:29.239 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-01 23:58:29.239 | INFO     | __main__:main:106 - START producer...
+2025-09-01 23:58:29.239 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-09-01 23:58:29.240 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-09-01 23:58:29.240 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely incredible!
+2025-09-01 23:58:31.338 | INFO     | __main__:main:114 - I just tried an app! It was boring.
+2025-09-01 23:58:32.241 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely shocking!
+2025-09-01 23:58:34.339 | INFO     | __main__:main:114 - I just shared a meme! It was weird.
+2025-09-01 23:58:35.243 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely incredible!
+2025-09-01 23:58:37.341 | INFO     | __main__:main:114 - I just loved a story! It was funny.
+2025-09-01 23:58:38.245 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely incredible!
+2025-09-01 23:58:40.342 | INFO     | __main__:main:114 - I just tried a meme! It was amazing.
+2025-09-01 23:58:41.246 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely incredible!
+2025-09-01 23:58:43.343 | INFO     | __main__:main:114 - I just found a movie! It was exciting.
+2025-09-01 23:58:44.248 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely shocking!
+2025-09-01 23:58:46.345 | INFO     | __main__:main:114 - I just shared a trick! It was weird.
+2025-09-01 23:58:47.250 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely funny!
+2025-09-01 23:58:49.346 | INFO     | __main__:main:114 - I just loved a story! It was weird.
+2025-09-01 23:58:50.251 | INFO     | __main__:main:114 - Breaking news! I just discovered an app and it was absolutely mind-blowing!
+2025-09-01 23:58:53.252 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely incredible!
+2025-09-01 23:58:56.254 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely amazing!
+2025-09-01 23:58:59.255 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely incredible!
+2025-09-01 23:59:02.256 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely incredible!
+2025-09-02 00:00:21.835 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-02 00:00:21.836 | INFO     | __main__:main:106 - START producer...
+2025-09-02 00:00:21.836 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-09-02 00:00:21.836 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-09-02 00:00:21.836 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely funny!
+2025-09-02 00:00:24.837 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:00:27.838 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely incredible!
+2025-09-02 00:00:30.839 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely mind-blowing!
+2025-09-02 00:00:33.840 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely shocking!
+2025-09-02 00:00:36.841 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:00:39.843 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely funny!
+2025-09-02 00:00:42.845 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely amazing!
+2025-09-02 00:00:45.847 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely shocking!
+2025-09-02 00:00:48.848 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely amazing!
+2025-09-02 00:00:51.850 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely incredible!
+2025-09-02 00:00:54.851 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely funny!
+2025-09-02 00:00:57.853 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely funny!
+2025-09-02 00:01:00.854 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely incredible!
+2025-09-02 00:01:03.856 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely incredible!
+2025-09-02 00:01:06.857 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely amazing!
+2025-09-02 00:01:09.859 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely incredible!
+2025-09-02 00:01:12.861 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely funny!
+2025-09-02 00:01:15.861 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely funny!
+2025-09-02 00:01:18.862 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely mind-blowing!
+2025-09-02 00:01:21.864 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely incredible!
+2025-09-02 00:01:24.865 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely shocking!
+2025-09-02 00:01:27.867 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely incredible!
+2025-09-02 00:01:30.868 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely incredible!
+2025-09-02 00:01:33.869 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely amazing!
+2025-09-02 00:01:36.870 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely shocking!
+2025-09-02 00:01:39.872 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely incredible!
+2025-09-02 00:01:42.873 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely shocking!
+2025-09-02 00:01:45.875 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely amazing!
+2025-09-02 00:01:48.875 | INFO     | __main__:main:114 - Breaking news! I just loved a viral meme and it was absolutely shocking!
+2025-09-02 00:01:50.754 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-02 00:01:50.754 | INFO     | __main__:main:79 - START...
+2025-09-02 00:01:50.754 | INFO     | __main__:main:85 - Reading file located at logs\project_log.log.
+2025-09-02 00:01:51.876 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely mind-blowing!
+2025-09-02 00:01:54.877 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely incredible!
+2025-09-02 00:01:57.878 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely shocking!
+2025-09-02 00:02:00.880 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely funny!
+2025-09-02 00:02:03.881 | INFO     | __main__:main:114 - Breaking news! I just loved a viral meme and it was absolutely amazing!
+2025-09-02 00:02:06.882 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely shocking!
+2025-09-02 00:02:09.883 | INFO     | __main__:main:114 - Breaking news! I just discovered an app and it was absolutely amazing!
+2025-09-02 00:02:12.884 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely mind-blowing!
+2025-09-02 00:02:15.885 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely incredible!
+2025-09-02 00:02:18.886 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely shocking!
+2025-09-02 00:02:21.887 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely mind-blowing!
+2025-09-02 00:02:24.889 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely shocking!
+2025-09-02 00:02:27.891 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely mind-blowing!
+2025-09-02 00:02:30.892 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely shocking!
+2025-09-02 00:02:33.894 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely amazing!
+2025-09-02 00:02:36.895 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely amazing!
+2025-09-02 00:02:39.897 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely amazing!
+2025-09-02 00:02:42.898 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely funny!
+2025-09-02 00:02:45.900 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely mind-blowing!
+2025-09-02 00:02:48.901 | INFO     | __main__:main:114 - Breaking news! I just discovered a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:02:51.902 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely incredible!
+2025-09-02 00:02:54.903 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely shocking!
+2025-09-02 00:02:57.905 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely shocking!
+2025-09-02 00:03:00.907 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely mind-blowing!
+2025-09-02 00:03:03.908 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely shocking!
+2025-09-02 00:03:06.909 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely incredible!
+2025-09-02 00:03:09.911 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:03:12.912 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely mind-blowing!
+2025-09-02 00:03:15.914 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely shocking!
+2025-09-02 00:03:18.916 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely mind-blowing!
+2025-09-02 00:03:21.917 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely shocking!
+2025-09-02 00:03:24.919 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely amazing!
+2025-09-02 00:03:27.920 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely incredible!
+2025-09-02 00:03:30.922 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely shocking!
+2025-09-02 00:03:33.924 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely shocking!
+2025-09-02 00:03:36.925 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely incredible!
+2025-09-02 00:03:39.927 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely funny!
+2025-09-02 00:03:42.929 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely funny!
+2025-09-02 00:03:45.929 | INFO     | __main__:main:114 - Breaking news! I just found a gadget and it was absolutely incredible!
+2025-09-02 00:03:48.931 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely incredible!
+2025-09-02 00:03:51.933 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely funny!
+2025-09-02 00:03:54.934 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely amazing!
+2025-09-02 00:03:57.936 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely shocking!
+2025-09-02 00:04:00.938 | INFO     | __main__:main:114 - Breaking news! I just loved a viral meme and it was absolutely incredible!
+2025-09-02 00:04:03.939 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely amazing!
+2025-09-02 00:04:06.941 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely amazing!
+2025-09-02 00:04:09.943 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely mind-blowing!
+2025-09-02 00:04:12.944 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely amazing!
+2025-09-02 00:04:15.946 | INFO     | __main__:main:114 - Breaking news! I just discovered a viral meme and it was absolutely amazing!
+2025-09-02 00:04:18.948 | INFO     | __main__:main:114 - Breaking news! I just discovered an app and it was absolutely incredible!
+2025-09-02 00:04:20.289 | INFO     | __main__:main:96 - END.....
+2025-09-02 00:04:21.950 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely shocking!
+2025-09-02 00:04:24.951 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely amazing!
+2025-09-02 00:04:27.952 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely shocking!
+2025-09-02 00:04:30.954 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely shocking!
+2025-09-02 00:04:33.956 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely mind-blowing!
+2025-09-02 00:04:36.958 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely incredible!
+2025-09-02 00:04:39.960 | INFO     | __main__:main:114 - Breaking news! I just loved a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:04:42.961 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely amazing!
+2025-09-02 00:04:45.963 | INFO     | __main__:main:114 - Breaking news! I just found a gadget and it was absolutely amazing!
+2025-09-02 00:04:48.965 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely funny!
+2025-09-02 00:04:51.966 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely shocking!
+2025-09-02 00:04:54.967 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely shocking!
+2025-09-02 00:04:57.969 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely funny!
+2025-09-02 00:05:00.326 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-02 00:05:00.327 | INFO     | __main__:main:106 - START producer...
+2025-09-02 00:05:00.327 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-09-02 00:05:00.327 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-09-02 00:05:00.327 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely funny!
+2025-09-02 00:05:00.971 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely incredible!
+2025-09-02 00:05:03.328 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely funny!
+2025-09-02 00:05:03.972 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely amazing!
+2025-09-02 00:05:06.330 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely incredible!
+2025-09-02 00:05:06.973 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely amazing!
+2025-09-02 00:05:09.331 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely funny!
+2025-09-02 00:05:09.975 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely amazing!
+2025-09-02 00:05:12.332 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely amazing!
+2025-09-02 00:05:12.977 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely mind-blowing!
+2025-09-02 00:05:15.334 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely amazing!
+2025-09-02 00:05:15.978 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely shocking!
+2025-09-02 00:05:18.335 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely amazing!
+2025-09-02 00:05:18.980 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely shocking!
+2025-09-02 00:05:21.337 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely funny!
+2025-09-02 00:05:21.981 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely incredible!
+2025-09-02 00:05:24.982 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely funny!
+2025-09-02 00:05:27.984 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely incredible!
+2025-09-02 00:05:30.984 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely funny!
+2025-09-02 00:05:33.986 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely funny!
+2025-09-02 00:05:36.988 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely shocking!
+2025-09-02 00:05:39.989 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely mind-blowing!
+2025-09-02 00:05:42.990 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely shocking!
+2025-09-02 00:05:45.991 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely amazing!
+2025-09-02 00:05:48.993 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely shocking!
+2025-09-02 00:05:51.283 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-02 00:05:51.284 | INFO     | __main__:main:106 - START producer...
+2025-09-02 00:05:51.284 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-09-02 00:05:51.284 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-09-02 00:05:51.285 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely funny!
+2025-09-02 00:05:51.995 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely amazing!
+2025-09-02 00:05:54.285 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely funny!
+2025-09-02 00:05:54.996 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely incredible!
+2025-09-02 00:05:57.286 | INFO     | __main__:main:114 - Breaking news! I just discovered a viral meme and it was absolutely funny!
+2025-09-02 00:05:57.997 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely funny!
+2025-09-02 00:06:00.287 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely funny!
+2025-09-02 00:06:00.998 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely funny!
+2025-09-02 00:06:03.288 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely funny!
+2025-09-02 00:06:04.000 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:06:06.290 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely incredible!
+2025-09-02 00:06:07.002 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely mind-blowing!
+2025-09-02 00:06:09.291 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely amazing!
+2025-09-02 00:06:10.003 | INFO     | __main__:main:114 - Breaking news! I just discovered a viral meme and it was absolutely amazing!
+2025-09-02 00:06:12.292 | INFO     | __main__:main:114 - Breaking news! I just discovered an app and it was absolutely shocking!
+2025-09-02 00:06:13.005 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely funny!
+2025-09-02 00:06:15.294 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:06:16.006 | INFO     | __main__:main:114 - Breaking news! I just discovered a viral meme and it was absolutely funny!
+2025-09-02 00:06:18.295 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely amazing!
+2025-09-02 00:06:19.008 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:06:21.297 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely incredible!
+2025-09-02 00:06:22.010 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely mind-blowing!
+2025-09-02 00:06:24.298 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely funny!
+2025-09-02 00:06:25.011 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely mind-blowing!
+2025-09-02 00:06:27.299 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely amazing!
+2025-09-02 00:06:28.013 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely shocking!
+2025-09-02 00:06:30.301 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely funny!
+2025-09-02 00:06:31.015 | INFO     | __main__:main:114 - Breaking news! I just discovered a viral meme and it was absolutely shocking!
+2025-09-02 00:06:33.303 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely funny!
+2025-09-02 00:06:34.016 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely incredible!
+2025-09-02 00:06:36.304 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely funny!
+2025-09-02 00:06:37.018 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely funny!
+2025-09-02 00:06:39.305 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely amazing!
+2025-09-02 00:06:40.019 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely mind-blowing!
+2025-09-02 00:06:42.306 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely shocking!
+2025-09-02 00:06:45.308 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely shocking!
+2025-09-02 00:06:48.310 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely amazing!
+2025-09-02 00:06:51.311 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely incredible!
+2025-09-02 00:28:27.012 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-02 00:28:27.014 | INFO     | __main__:main:106 - START producer...
+2025-09-02 00:28:27.014 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-09-02 00:28:27.014 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-09-02 00:28:27.014 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely amazing!
+2025-09-02 00:28:30.015 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely shocking!
+2025-09-02 00:28:33.017 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely funny!
+2025-09-02 00:28:36.017 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely incredible!
+2025-09-02 00:28:39.019 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely shocking!
+2025-09-02 00:28:42.020 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely amazing!
+2025-09-02 00:28:45.021 | INFO     | __main__:main:114 - Breaking news! I just loved a gadget and it was absolutely funny!
+2025-09-02 00:28:48.023 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely incredible!
+2025-09-02 00:28:51.025 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely incredible!
+2025-09-02 00:28:54.026 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely amazing!
+2025-09-02 00:28:57.028 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely funny!
+2025-09-02 00:29:00.029 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely shocking!
+2025-09-02 00:29:03.030 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely shocking!
+2025-09-02 00:29:06.032 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely incredible!
+2025-09-02 00:29:09.034 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely amazing!
+2025-09-02 00:29:12.034 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely amazing!
+2025-09-02 00:29:15.035 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely funny!
+2025-09-02 00:29:18.036 | INFO     | __main__:main:114 - Breaking news! I just discovered an app and it was absolutely incredible!
+2025-09-02 00:29:19.457 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-09-02 00:29:19.457 | INFO     | __main__:main:79 - START...
+2025-09-02 00:29:19.458 | INFO     | __main__:main:85 - Reading file located at logs\project_log.log.
+2025-09-02 00:29:21.038 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely mind-blowing!
+2025-09-02 00:29:24.038 | INFO     | __main__:main:114 - Breaking news! I just discovered a viral meme and it was absolutely funny!
+2025-09-02 00:29:27.039 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely incredible!
+2025-09-02 00:29:30.041 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely incredible!
+2025-09-02 00:29:33.043 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely shocking!
+2025-09-02 00:29:36.044 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely amazing!
+2025-09-02 00:29:39.046 | INFO     | __main__:main:114 - Breaking news! I just loved a viral meme and it was absolutely incredible!
+2025-09-02 00:29:42.047 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely shocking!
+2025-09-02 00:29:45.049 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely incredible!
+2025-09-02 00:29:48.051 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely funny!
+2025-09-02 00:29:51.052 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely funny!
+2025-09-02 00:29:54.054 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely incredible!
+2025-09-02 00:29:57.056 | INFO     | __main__:main:114 - Breaking news! I just found a gadget and it was absolutely amazing!
+2025-09-02 00:30:00.057 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely amazing!
+2025-09-02 00:30:03.059 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely shocking!
+2025-09-02 00:30:06.061 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely amazing!
+2025-09-02 00:30:09.062 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely incredible!
+2025-09-02 00:30:12.064 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely shocking!
+2025-09-02 00:30:15.065 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely amazing!
+2025-09-02 00:30:18.067 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely mind-blowing!
+2025-09-02 00:30:21.069 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely mind-blowing!
+2025-09-02 00:30:24.071 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely incredible!
+2025-09-02 00:30:27.072 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely incredible!
+2025-09-02 00:30:30.074 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely incredible!
+2025-09-02 00:30:33.075 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely funny!
+2025-09-02 00:30:36.077 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely amazing!
+2025-09-02 00:30:39.087 | INFO     | __main__:main:114 - Breaking news! I just loved a viral meme and it was absolutely incredible!
+2025-09-02 00:30:42.088 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely incredible!
+2025-09-02 00:30:45.090 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely amazing!
+2025-09-02 00:30:48.092 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely mind-blowing!
+2025-09-02 00:30:51.094 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely amazing!
+2025-09-02 00:30:54.095 | INFO     | __main__:main:114 - Breaking news! I just discovered a movie and it was absolutely mind-blowing!
+2025-09-02 00:30:57.096 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely incredible!
+2025-09-02 00:31:00.098 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely shocking!
+2025-09-02 00:31:03.100 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:31:06.102 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely incredible!
+2025-09-02 00:31:09.103 | INFO     | __main__:main:114 - Breaking news! I just loved a book and it was absolutely incredible!
+2025-09-02 00:31:12.104 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely amazing!
+2025-09-02 00:31:15.106 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely incredible!
+2025-09-02 00:31:18.108 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely incredible!
+2025-09-02 00:31:21.109 | INFO     | __main__:main:114 - Breaking news! I just found a gadget and it was absolutely funny!
+2025-09-02 00:31:24.111 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely incredible!
+2025-09-02 00:31:27.113 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely funny!
+2025-09-02 00:31:30.115 | INFO     | __main__:main:114 - Breaking news! I just shared an app and it was absolutely incredible!
+2025-09-02 00:31:33.116 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely amazing!
+2025-09-02 00:31:36.118 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely shocking!
+2025-09-02 00:31:39.120 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely incredible!
+2025-09-02 00:31:42.121 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely amazing!
+2025-09-02 00:31:45.123 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely mind-blowing!
+2025-09-02 00:31:48.125 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely shocking!
+2025-09-02 00:31:51.126 | INFO     | __main__:main:114 - Breaking news! I just watched a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:31:54.128 | INFO     | __main__:main:114 - Breaking news! I just loved a viral meme and it was absolutely shocking!
+2025-09-02 00:31:57.130 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely funny!
+2025-09-02 00:32:00.132 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely funny!
+2025-09-02 00:32:03.133 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely mind-blowing!
+2025-09-02 00:32:06.135 | INFO     | __main__:main:114 - Breaking news! I just shared a book and it was absolutely amazing!
+2025-09-02 00:32:09.136 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely amazing!
+2025-09-02 00:32:12.138 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely amazing!
+2025-09-02 00:32:15.139 | INFO     | __main__:main:114 - Breaking news! I just discovered an app and it was absolutely shocking!
+2025-09-02 00:32:18.141 | INFO     | __main__:main:114 - Breaking news! I just watched a gadget and it was absolutely incredible!
+2025-09-02 00:32:21.142 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely funny!
+2025-09-02 00:32:24.144 | INFO     | __main__:main:114 - Breaking news! I just shared a viral meme and it was absolutely amazing!
+2025-09-02 00:32:27.146 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely shocking!
+2025-09-02 00:32:30.147 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely shocking!
+2025-09-02 00:32:33.149 | INFO     | __main__:main:114 - Breaking news! I just watched a movie and it was absolutely funny!
+2025-09-02 00:32:36.150 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely incredible!
+2025-09-02 00:32:39.152 | INFO     | __main__:main:114 - Breaking news! I just found a gadget and it was absolutely shocking!
+2025-09-02 00:32:42.154 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely funny!
+2025-09-02 00:32:45.155 | INFO     | __main__:main:114 - Breaking news! I just watched an app and it was absolutely mind-blowing!
+2025-09-02 00:32:48.156 | INFO     | __main__:main:114 - Breaking news! I just discovered a book and it was absolutely amazing!
+2025-09-02 00:32:51.157 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely shocking!
+2025-09-02 00:32:54.159 | INFO     | __main__:main:114 - Breaking news! I just shared a gadget and it was absolutely mind-blowing!
+2025-09-02 00:32:57.161 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely mind-blowing!
+2025-09-02 00:33:00.162 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely mind-blowing!
+2025-09-02 00:33:03.163 | INFO     | __main__:main:114 - Breaking news! I just found an app and it was absolutely funny!
+2025-09-02 00:33:06.165 | INFO     | __main__:main:114 - Breaking news! I just found a viral meme and it was absolutely incredible!
+2025-09-02 00:33:09.166 | INFO     | __main__:main:114 - Breaking news! I just discovered a viral meme and it was absolutely shocking!
+2025-09-02 00:33:12.167 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely incredible!
+2025-09-02 00:33:15.169 | INFO     | __main__:main:114 - Breaking news! I just loved a movie and it was absolutely funny!
+2025-09-02 00:33:18.171 | INFO     | __main__:main:114 - Breaking news! I just discovered a gadget and it was absolutely mind-blowing!
+2025-09-02 00:33:21.172 | INFO     | __main__:main:114 - Breaking news! I just found a book and it was absolutely mind-blowing!
+2025-09-02 00:33:24.174 | INFO     | __main__:main:114 - Breaking news! I just shared a movie and it was absolutely shocking!
+2025-09-02 00:33:27.176 | INFO     | __main__:main:114 - Breaking news! I just found a movie and it was absolutely mind-blowing!
+2025-09-02 00:33:30.178 | INFO     | __main__:main:114 - Breaking news! I just loved an app and it was absolutely amazing!
+2025-09-02 00:33:33.179 | INFO     | __main__:main:114 - Breaking news! I just watched a book and it was absolutely amazing!
+2025-09-02 00:33:33.591 | INFO     | __main__:main:96 - END.....
