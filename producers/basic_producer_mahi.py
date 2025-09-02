@@ -53,6 +53,8 @@ def get_message_interval() -> int:
     logger.info(f"Messages will be sent every {interval} seconds.")
     return interval
 
+# Fetch the message prefix from the environment or use a default value
+message_prefix = os.getenv("MESSAGE_PREFIX", "I just")
 
 #####################################
 # Define global variables
